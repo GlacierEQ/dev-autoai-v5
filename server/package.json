@@ -18,9 +18,9 @@
     "bad-words": "^3.0.4",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
-    "express": "^4.18.2",
+    "express": "^4.22.0",
     "ioredis": "^5.2.4",
-    "nodemon": "^2.0.20",
-    "openai": "^3.1.0"
+    "nodemon": "^3.1.11",
+    "openai": "^6.17.0"
   }
 }
